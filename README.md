@@ -83,11 +83,12 @@ Netflix-SQL-Project/
 
 ## Author
 
-**Martin Sajeeb**  
+**Mosaddek Hosen Sajeeb**  
 Aspiring Data Analyst  
 
-GitHub: *(add link)*
+GitHub: *(https://github.com/iamsojib582-cyber/Netflix-Content-Sql-Analysis/edit/main/README.md)*
 
 ---
 
 ⭐ This project is created for learning and portfolio purposes.
+
